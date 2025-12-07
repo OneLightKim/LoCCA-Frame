@@ -1,0 +1,24 @@
+# Datasets (access restricted)
+0_datasets/
+*.jsonl
+!data/strategy_info.json
+
+# Model cache
+**/MentalRoBERTa_cache/
+**/__pycache__/
+*.pyc
+
+# Trained model weights (too large for git)
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+

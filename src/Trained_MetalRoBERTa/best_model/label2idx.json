@@ -1,0 +1,16 @@
+{
+  "label2idx": {
+    "Eating_disorder": 0,
+    "anxiety": 1,
+    "bipolar": 2,
+    "control": 3,
+    "depression": 4
+  },
+  "idx2label": {
+    "0": "Eating_disorder",
+    "1": "anxiety",
+    "2": "bipolar",
+    "3": "control",
+    "4": "depression"
+  }
+}
